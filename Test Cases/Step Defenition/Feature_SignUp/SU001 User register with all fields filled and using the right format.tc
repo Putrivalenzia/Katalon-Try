@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SU001 User register with all fields filled and using the right format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7b4976b-b4c5-4dcd-a033-11d531df08ae</testCaseGuid>
+</TestCaseEntity>
